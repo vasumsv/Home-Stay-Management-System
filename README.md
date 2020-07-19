@@ -20,53 +20,82 @@ This implementation of this project involves the usage of _MySQL_ for database, 
 Once you run the project ,the project will look like this
  
 
+ ### Login Page
+ 
+ 
+![1](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/1.png)
+
+The user can login by entering his username and password.
+
  ### Home Page
  
  
-![1](https://github.com/vasumsv/Inventory-management-System/blob/master/Inventory%20managemenet%20system/screenshots/1.png)
+ ![2](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/2.png)
+ 
+ 
+ The default page, which gets displayed after the login that contains the list of all options that can select from homepage.
+ 
+ ### Admin control
+ 
+ 
+ 
+![3](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/3.png)
 
 
+In Admin Control there is a tabbed pane which has room in which room details is entered and
+all the records can be inserted, updated and deleted.
+
+
+![4](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/4.png)
+
+
+In Admin Control there is another tabbed pane which has food in which food details is entered and all the records can be inserted, updated and deleted.
 
  ### Customer Information
  
  
- ![2](https://github.com/vasumsv/Inventory-management-System/blob/master/Inventory%20managemenet%20system/screenshots/2.png)
+ 
+![5](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/5.png)
+ 
+ 
+ The Customer details page contains details of the customers in which the customer details are inserted, updated and deleted.
+ 
+ ### Reservation details
  
  
  
+![6](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/6.png)
+
+
+In reservation page we can insert, delete, modify and display the details of reservations and it also displays the status of reservation.
+
+ ### Payment details
  
- ### Category Information
  
  
+![7](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/7.png)
+
+
+In payment page we can insert, delete, modify and display the details of customer payments and calculates and displays the total amount.
+
+
+ ### Food Order details
  
-![3](https://github.com/vasumsv/Inventory-management-System/blob/master/Inventory%20managemenet%20system/screenshots/3.png)
+ 
+ ![8](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/8.png)
+ 
+ 
+In Food Order there is a tabbed pane in which in one pane the order details are entered which has order number and order date.
+
+
+ ![9](https://github.com/vasumsv/Home-Stay-Management-System/blob/master/screenshot/9.png)
 
 
 
-
- ### Payment Information
- 
- 
- 
- ![4](https://github.com/vasumsv/Inventory-management-System/blob/master/Inventory%20managemenet%20system/screenshots/4.png)
- 
- 
- 
- ### Seller Login
- 
- 
- 
-![5](https://github.com/vasumsv/Inventory-management-System/blob/master/Inventory%20managemenet%20system/screenshots/5.png)
+In food order pane we select the food and calculate the subtotal based on quantity and these details added to the cart and total amount is calculated based on order.
 
 
+#Have a Great Day :)
 
-
- ### Seller Control
  
  
- 
-![6](https://github.com/vasumsv/Inventory-management-System/blob/master/Inventory%20managemenet%20system/screenshots/6.png)
-
-
-
-# Have a Great Day
