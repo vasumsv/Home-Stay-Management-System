@@ -95,7 +95,7 @@ In Food Order there is a tabbed pane in which in one pane the order details are 
 In food order pane we select the food and calculate the subtotal based on quantity and these details added to the cart and total amount is calculated based on order.
 
 
-#Have a Great Day :)
+# Have a Great Day :)
 
  
  
